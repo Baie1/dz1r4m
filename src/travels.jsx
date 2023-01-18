@@ -1,4 +1,6 @@
-function travels() {
+import React from "react"
+
+function travels(App) {
     
     return (
         <div class="courses">
